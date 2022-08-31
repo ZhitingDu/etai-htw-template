@@ -5,7 +5,7 @@ Please follow the given directory structure:
 ├── assets            # Place external data, eg. downloaded libraries, repos etc here. 
 ├── data              # Data, labeled or unlabeled here
 ├── src               # Place you code here
-│   ├── infer.py      # Implement your training routine here
+│   ├── infer.py      # Implement your inference routine here
 │   ├── train.py      # Implement training routine here
 │   └── utils.py      # Don't bloat the train file, if you need helpers, place them here
 ├── dockerfiles       # Add dockerfiles here, if you write some
