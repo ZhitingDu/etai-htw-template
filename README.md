@@ -7,7 +7,7 @@ Please follow the given directory structure:
 ├── src               # Place you code here
 │   ├── infer.py      # Implement your inference routine here
 │   ├── train.py      # Implement training routine here
-│   └── utils.py      # Don't bloat the train file, if you need helpers, place them here
+│   └── helpers.py      # Don't bloat the train file, if you need helpers, place them here
 ├── dockerfiles       # Add dockerfiles here, if you write some
 ├── models            # Models go here
 ├── README.md
